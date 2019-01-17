@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "name": "Zara",
+        
+        "image": "/Images/1.jpg",
+       
+        "met": false
+    },
+    {
+        "id": 2,
+        "name": "Ike",
+        "image": "../Images/2.jpg",
+        "met": false
+    },
+
+    {
+        "id": 3,
+        "name": "Millie",
+        "image": "./Images/3.jpg",
+        "met": false
+    },
+
+    {
+        "id": 4,
+        "name": "Jed",
+        "image": "./Images/4.jpg",
+        "met": false
+    }, 
+    
+    {
+        "id": 5,
+        "name": "Tahiry",
+        "image": "./Images/5.jpg",
+        "met": false
+    },
+
+    {
+        "id": 6,
+        "name": "Mike",
+        "image": "./Images/6.jpg",
+        "met": false
+    },
+
+    {
+        "id": 7,
+        "name": "Omar",
+        "image": "./Images/7.jpg",
+        "met": false
+    },
+
+    {
+        "id": 8,
+        "name": "Estelle",
+        "image": "./Images/8.jpg",
+        "met": false
+    },
+
+    {
+        "id": 9,
+        "name": "Tina",
+        "image": "./Images/9.jpg",
+        "met": false
+    },
+
+    {
+        "id": 10,
+        "name": "Burt",
+        "image": "./Images/10.jpg",
+        "met": false
+    },
+
+    {
+        "id": 11,
+        "name": "Angela",
+        "image": "./Images/11.jpg",
+        "met": false
+    },
+
+    {
+        "id": 12,
+        "name": "Sam",
+        "image": "./Images/12.jpg",
+        "met": false
+    }
+]
